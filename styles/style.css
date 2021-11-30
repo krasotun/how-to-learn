@@ -5,6 +5,7 @@
   max-width: 1600px;
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
+  padding: 0;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
@@ -20,6 +21,8 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
+  background-color: #2f80ed;
+  border: none;
 }
 
 /* и элемента с модификатором вида ключ-значение */
