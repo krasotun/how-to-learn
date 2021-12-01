@@ -19,6 +19,7 @@
   max-height: 756px;
   position: relative;
   border: 1px red solid;
+  background-color: #f2f2f2;
   /* выше установили ограничения для секции */
 }
 
@@ -37,6 +38,8 @@
   border: 1px red solid;
 
 }
+
+.header__title {}
 
 .header__text-container {
   width: 388px;
