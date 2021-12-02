@@ -45,6 +45,7 @@
   margin: auto 0;
   padding-left: 64px;
   width: 730px;
+  z-index: 4;
 
 }
 
@@ -52,6 +53,7 @@
   font-size: 102px;
   line-height: 96px;
   font-weight: bold;
+
 }
 
 .header__text-container {
@@ -60,12 +62,15 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
+  z-index: 3;
+
 }
 
 .header__subtitle {
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
+
 }
 
 .header__link {
