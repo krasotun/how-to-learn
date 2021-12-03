@@ -34,17 +34,14 @@
   left: 64px;
 }
 
-.header__title-container {
-  margin: auto 0;
-  padding-left: 64px;
-  width: 730px;
-  z-index: 4;
-}
-
 .header__title {
   font-size: 102px;
   line-height: 96px;
   font-weight: bold;
+  margin: auto 0;
+  padding-left: 64px;
+  width: 730px;
+  z-index: 4;
 }
 
 .header__text-container {
