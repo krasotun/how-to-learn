@@ -1,8 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  border: 1px solid red;
 }
-
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -90,19 +88,15 @@
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
-
   width: 80%;
 }
 
 .two-columns__brief {
-  width: 175px;
-}
-
-.two-columns__brief-subtitle {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
+  width: 175px;
 }
 
 .two-columns__main-text {
@@ -115,14 +109,13 @@
   font-weight: normal;
 }
 
-.two-columns__paragraph-2 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
 }
 
 .two-columns__span-accent {
-  margin-top: 30px;
-  margin-bottom: 30px;
   font-weight: bold;
 }
 
@@ -169,6 +162,7 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
+  margin: 0 0 20px 0;
 }
 
 .table__text {
@@ -176,13 +170,6 @@
   font-size: 18px;
   font-weight: normal;
   padding-top: 20px;
-}
-
-.table__text_bottom-text {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  margin-top: 20px;
 }
 
 .feynman {
@@ -268,7 +255,7 @@
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table__sell_theme_dark {
+.table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
