@@ -28,7 +28,7 @@
   /* выше установили ограничения для секции */
 }
 
-.logo__place_header {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
