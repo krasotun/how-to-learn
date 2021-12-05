@@ -35,6 +35,7 @@
   padding-left: 64px;
   width: 730px;
   z-index: 4;
+  margin: 0;
 }
 
 .header__subtitle {
@@ -46,6 +47,7 @@
   left: 64px;
   bottom: 30px;
   z-index: 3;
+  margin: 0;
 }
 
 .header__link {
@@ -92,6 +94,7 @@
   font-weight: normal;
   color: #2f80ed;
   width: 175px;
+  margin: 0;
 }
 
 .two-columns__main-text {
@@ -108,6 +111,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin: 0;
 }
 
 .two-columns__span-accent {
@@ -165,6 +169,7 @@
   font-size: 18px;
   font-weight: normal;
   padding-top: 20px;
+  margin: 0;
 }
 
 .feynman {
@@ -230,6 +235,7 @@
   top: 0;
   right: -210px;
   z-index: -1;
+  background-size: 877px 877px;
 }
 
 .section-title_theme_dark {
