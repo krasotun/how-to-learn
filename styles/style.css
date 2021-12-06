@@ -171,6 +171,9 @@
   margin: 0;
 }
 
+.table__text:nth-child(3) {
+  margin-top: 20px;
+}
 .feynman {
   padding-top: 100px;
   min-height: 890px;
