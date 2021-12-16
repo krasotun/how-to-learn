@@ -1,0 +1,6 @@
+.video__frame {
+  margin-right: 20px;
+}
+.video__frame:nth-child(2) {
+  margin-right: 0;
+}
