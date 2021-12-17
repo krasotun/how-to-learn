@@ -74,6 +74,10 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__background-container/kaufman__background-container.css);
 
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
