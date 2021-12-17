@@ -6,3 +6,7 @@
   font-weight: normal;
   text-decoration: none;
 }
+.khan__buy-link:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
