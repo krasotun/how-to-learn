@@ -1,5 +1,7 @@
 @import url(../vendor/normalize.css);
 
+@import url(../blocks/page/page.css);
+
 @import url(../blocks/rotation/rotation.css);
 
 @import url(../blocks/logo/logo.css);
@@ -89,15 +91,3 @@
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-
-.page {
-  min-width: 1100px;
-  /* мы ещё не умеем делать мобильную версию сайта, */
-  /* поэтому выше установлена минимальная ширина страницы */
-  max-width: 1600px;
-  /* выше установили ограничение по максимальной ширине */
-  margin: 0 auto;
-  padding: 0;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: "Helvetica Neue", Arial, sans-serif;
-}
