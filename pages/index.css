@@ -33,7 +33,7 @@
 @import url(../blocks/table/__text/_theme/table__heading_theme_dark.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__title/header__title.css);
+@import "../blocks/header/__title/header__title.css";
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-llustration/header__main-llustration.css);
