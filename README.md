@@ -11,6 +11,6 @@
 #### Выполнил: Ибрагимов Марат.
 #### IDE: VSCode with plugins.
 [Макет](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
-[Деплой](https://krasotun.github.io/how-learn/)
+[Деплой](https://krasotun.github.io/how-to-learn/)
 
 ![How to learn](https://user-images.githubusercontent.com/88790010/157276828-98868eeb-f554-47b5-927c-c453d7cea2b9.jpg)
